@@ -1,4 +1,4 @@
-import math
+
 class Solution:
     def numSubarrayProductLessThanK(self, nums: List[int], k: int) -> int:
         if k < 0:
